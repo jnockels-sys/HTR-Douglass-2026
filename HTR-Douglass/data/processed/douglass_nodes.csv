@@ -1,0 +1,156 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+,entity_id,canonical_name,label,wikidata_id,confidence,total_count
+,E001,The Railway Station for Bedrachien,GPE,,High,1
+,E002,East Greenwich,GPE,Q999257,High,1
+,E003,Ghezirah Palace,GPE,Q145361,High,1
+,E004,Vitriori Victoria - Colonna,GPE,,High,1
+,E005,Florence,GPE,Q2044,High,14
+,E006,St John's Wood,GPE,Q2153758,High,1
+,E007,Providence,GPE,Q18383,High,1
+,E008,"Stratford Road
+Birmingham",GPE,,High,1
+,E009,Rindge Perkins,PERSON,,Low,1
+,E010,Northwold Bowden,GPE,,High,2
+,E011,SS City of Rome,SHIP,Q3006894,High,4
+,E012,Helen Pitts Douglass,PERSON,Q5702990,High,20
+,E013,The Howling Dervishers,ORG,,High,1
+,E014,Ludmilla Assing,PERSON,Q90885,High,2
+,E015,New Broadstreet London,GPE,,High,1
+,E016,Charles Haddon Spurgeon,PERSON,Q278825,High,1
+,E017,Abraham Shackleton,PERSON,Q18526291,Low,1
+,E018,Clondarrach,GPE,,High,1
+,E019,Vernon Street Philadelphia,GPE,Q1345,High,2
+,E020,Centennial Exposition,EVENT,Q984109,Medium,1
+,E021,The Church of England,ORG,Q82708,High,2
+,E022,Premaere Aroudessmont,GPE,,High,1
+,E023,Charles Remond Douglass,PERSON,Q16043502,High,1
+,E024,Crete,GPE,Q34374,High,1
+,E025,America,GPE,Q30,High,15
+,E026,The Hotel De la Poste,GPE,Q107290782,Low,2
+,E027,Charlotte,GPE,Q16565,Low,1
+,E028,The Hotel Britanique,GPE,,High,1
+,E029,Edward Irving,PERSON,Q1292605,Low,1
+,E030,Tucel Taccillo,PERSON,,Medium,1
+,E031,Elizabeth Emily Webb,PERSON,,High,1
+,E032,William Weaver,PERSON,,High,1
+,E033,"Thomas
+Edward Sears",PERSON,,High,1
+,E034,Gainesville,GPE,Q651051,High,1
+,E035,"Hotel
+Du Luxemborg",GPE,,High,1
+,E036,Cheltenham,GPE,Q206988,High,1
+,E037,The Bourbon Palace,ORG,Q188190,High,1
+,E038,Athens,GPE,Q1524,High,3
+,E039,Isabella Mills,PERSON,,High,2
+,E040,Kensington,GPE,Q288781,Medium,1
+,E041,Dublin,GPE,Q1761,High,5
+,E042,Robert Folger,PERSON,,High,1
+,E043,Henry Wayland,PERSON,,High,6
+,E044,Putnam,PERSON,,High,6
+,E045,Temple of Neptune,GPE,Q453634,High,1
+,E046,Harvey,PERSON,,Low,2
+,E047,The Gehezeh Gizeh,GPE,,Medium,1
+,E048,"The Coptic
+Church",ORG,Q198998,High,1
+,E049,Mohameden College,GPE,,High,1
+,E050,"John
+Biddulph",PERSON,Q75438808,Medium,1
+,E051,Victoria Woodhull,PERSON,Q260378,High,1
+,E052,Benjamin Franklin,PERSON,Q34969,High,1
+,E053,Dora Delany,PERSON,,High,1
+,E054,Arthur John Naish,PERSON,,High,1
+,E055,John Webb,PERSON,,High,1
+,E056,Sidney,GPE,Q3130,High,1
+,E057,Ewing Missionary,ORG,,High,1
+,E058,Richard Hildreth,PERSON,Q912023,High,2
+,E059,Elizabeth Barrett Browning,PERSON,Q228494,High,1
+,E060,Thomas Jefferson,PERSON,Q11812,High,1
+,E061,David Richardson,PERSON,,High,3
+,E062,Susanna Webb,PERSON,,High,2
+,E063,Alexander Wayman,PERSON,,High,1
+,E064,Hannah Davis,PERSON,,High,4
+,E065,Matthew Anderson,PERSON,,High,2
+,E066,George Bllelock,PERSON,,High,2
+,E067,Abraham Lincoln,PERSON,Q91,High,1
+,E068,Pembrook Chapel,ORG,,High,1
+,E069,Galileo Galilei,PERSON,Q307,High,3
+,E070,Maritcha Remond,PERSON,,High,1
+,E071,Robert Ingorsol,PERSON,,High,1
+,E072,Hotel Bonnard,GPE,,High,1
+,E073,Theodore Parker,PERSON,Q709002,High,2
+,E074,Arthur Griffith,PERSON,,High,1
+,E075,Killing,GPE,,Low,1
+,E076,John Lewis ,PERSON,,Medium,2
+,E077,Mounte Christo,GPE,,High,1
+,E078,Palazza Moroni,PERSON,,Medium,3
+,E079,J Kinsman,PERSON,,Medium,1
+,E080,Socrates,PERSON,Q913,High,1
+,E081,Calidian Hotel,GPE,,High,2
+,E082,Wilhelmina,PERSON,,Low,1
+,E083,Joseph Lee,PERSON,,High,1
+,E084,Wrexham,PERSON,Q496368,High,1
+,E085,"Henry
+Wagoner",PERSON,Q27881205,High,5
+,E086,Hotel Beauvan,GPE,,High,1
+,E087,Massachusetts,GPE,,High,1
+,E088,Edmonia Lewis,PERSON,Q512065,High,3
+,E089,Capo de Monte,GPE,Q3861300,Medium,1
+,E090,Julius Caeser,PERSON,Q1048,High,1
+,E091,Michelangelo,PERSON,Q5592,High,2
+,E092,Cicero,PERSON,Q1541,High,1
+,E093,Fletcher,PERSON,,Medium,5
+,E094,Shankland,PERSON,,Medium,1
+,E095,Sakar Sakkara,GPE,,Medium,2
+,E096,Theodore Merz,PERSON,,High,1
+,E097,Belgrave Road,GPE,,High,1
+,E098,Aaron Anthony,PERSON,,High,2
+,E099,Willie Bryant,PERSON,,High,1
+,E100,S Pickard,PERSON,,Medium,1
+,E101,Robert Purvis,PERSON,Q7349067,High,1
+,E102,Lizzie Foster,PERSON,,High,1
+,E103,New Hampshire,GPE,Q759,High,1
+,E104,Rawlins,PERSON,,Low,1
+,E105,Alexandre Dumas,PERSON,Q38337,High,1
+,E106,Pisa,GPE,Q13375,High,2
+,E107,Sarah Remond,PERSON,Q4794162,High,1
+,E108,Tres Maurais,GPE,,High,1
+,E109,King Humbert,PERSON,Q106465886,Medium,1
+,E110,Lausanne,GPE,Q807,High,1
+,E111,Stoke Bishop,GPE,Q7618438,High,1
+,E112,Deborah Webb,PERSON,,High,1
+,E113,Thomas Henry,PERSON,,High,1
+,E114,Jacksonville,GPE,Q16568,High,1
+,E115,M Greene,PERSON,,High,1
+,E116,Edward Sears,PERSON,,High,1
+,E117,Baltimore,GPE,Q5092,High,5
+,E118,Hipwell,PERSON,,Low,1
+,E119,San Martino,GPE,,Medium,1
+,E120,Herculanium,GPE,,High,1
+,E121,Cairo,GPE,Q85,High,10
+,E122,United Presbyterian Church,ORG,Q286926,High,3
+,E123,Beni Hasan,GPE,Q817286,High,1
+,E124,Thomas Auld,PERSON,,High,1
+,E125,Amanda Auld,PERSON,,High,1
+,E126,Fells Point,GPE,Q764664,High,1
+,E127,Jones,PERSON,,Medium,1
+,E128,Egypt,GPE,Q79,High,17
+,E129,Ormuz,SHIP,Q2031233,High,2
+,E130,Italy,GPE,Q38,High,4
+,E131,Medes,ORG,Q8735,Medium,1
+,E132,Nile,GPE,Q3392,High,6
+,E133,Clark,PERSON,,Medium,1
+,E134,Marsh,PERSON,,Medium,1
+,E135,Milan,GPE,Q490,High,2
+,E136,Spain,GPE,Q29,High,1
+,E137,Clyde,GPE,Q19721,Medium,1
+,E138,Grace Isabel Webb,PERSON,,High,1
+,E139,Roger Webb,PERSON,,High,1
+,E140,Onley,PERSON,,Low,1
+,E141,Lyon,PERSON,Q456,High,2
+,E142,Rome,GPE,Q220,High,14
+,E143,Indiana,GPE,Q1415,Medium,1
+,E144,Paul,PERSON,Q9200,High,6
+,E145,Port Said,GPE,Q134509,High,3
+,E146,Arno,GPE,Q115457,High,1
+,E147,Tyne,GPE,Q216373,Medium,2
+,E148,Ohio,GPE,Q1397,High,2
