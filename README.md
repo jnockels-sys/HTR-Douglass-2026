@@ -1,5 +1,5 @@
 # HTR-Douglass-2026
-This repository includes data from an AHRC-funded International Placement Award, between the University of Edinburgh and Library of Congress. The project focused on making the autobiographical writings of Frederick Douglass (1818 - 1895) more accessible through AI-enabled transcription workflows, as well as contributing to analyses of his work. The mixed-method analysis primairly used Douglass's travel diary as case study data (1886-1894) (https://www.loc.gov/collections/frederick-douglass-papers/?fa=partof:frederick+douglass+papers:+diary,+1886-1894), which forms part of the Frederick Douglass Papers at the Library of Congress.
+This repository includes data from an AHRC-funded International Placement Award, between the University of Edinburgh and Library of Congress. The project focused on making the autobiographical writings of Frederick Douglass (1818 - 1895) more accessible through AI-enabled transcription workflows, as well as contributing to analyses of his work. The mixed-method analysis primarily used Douglass's travel diary as case study data (1886-1894) (https://www.loc.gov/collections/frederick-douglass-papers/?fa=partof:frederick+douglass+papers:+diary,+1886-1894), which forms part of the Frederick Douglass Papers at the Library of Congress.
 
 # Technologies Used
 
@@ -11,11 +11,11 @@ Gephi for network visualisation (https://gephi.org)
 
 # Prerequisites 
 
-Transkribus free account, register here - https://account.readcoop.eu/, with the trained Douglass model made accessible vai contacting the corresponding author. 
+Transkribus free account, register here - https://account.readcoop.eu/, with the trained Douglass model made accessible via contacting the corresponding author. 
 
 Gephi 10.1 installed locally, see https://gephi.org/desktop/. 
 
-The datasets constructed for this work were conducted on an Apple Mac 1 Silicon set-up, as such code may need converting to different syntax for other environments. The limited Python code used was written within Jupyter Notebooks to prioritise reproducibility through human-language descriptions and comments, however can also be used locally in the command line (https://jupyter.org).
+The datasets constructed for this work were conducted on an Apple Mac 1 Silicon set-up, as such -- code may need converting to different syntax for other environments. The limited Python code used was written within Jupyter Notebooks to prioritise reproducibility through human-language descriptions and comments, however may also be used locally in the command line (https://jupyter.org).
 
 # Workflow 
 
@@ -33,6 +33,10 @@ To uncover the networked structure of co-occuring terms in both diaries, we used
 
 By demonstrating the ability of distant reading approaches, coinciding with traditional scholarship, this project serves as an example of leveraging automation for historical research on text-based library collections.
 
+# Citations 
+
+Emerson, M.G. (2003) Scholarly Edition of The Grand Tour Diaries of Frederick Douglass and Helen Pitts, MA diss. Indianapolis: Indiana University. Available at: https://scholarworks.indianapolis.iu.edu/items/67e1a2e9-1b30-48aa-9250-c82162ff2876 (Accessed: 18 August 2025).
+
 # Credits 
 
 We would like to emphasise again the foundational digitisation of the LoC Manuscript Division. 
@@ -44,3 +48,4 @@ Prof Melissa Terras (University of Edinburgh, Edinburgh College of Art) - Concep
 R text analysis approaches were also applied to Douglass's unpublished and published autobiographical works, see the aligned repository - https://github.com/jnockelsss/Douglass-Project-LoC-2024 for the datasets used, and the paper: 
 
 Nockels, J., Nguyen, G., Charlton, A., Terras, M. (2025). 'God on the Stage: A Text Analysis of Frederick Douglass's Religiosity (1845 - 1887)', International Journal of Humanities and Arts Computing, 19(2), https://doi.org/10.3366/ijhac.2025.0352
+
